@@ -23,4 +23,10 @@ git commit -m 'commit message'
 ```
 
 ## Task 2
-Github... Next Session
+- Create a Github Repository (https://github.com/new)
+- Add your local repo
+```bash
+git remote add origin https://github.com/yourusername/git_solution.git
+git branch -M master
+git push -u origin master
+```
